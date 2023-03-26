@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at Laurea University of Applied Sciences (BBA of Business Information Technology and Developing Digital Services)
 - 🌱 I’m currently learning Github, VS Code
-- 📫 How to reach me: <a href="https://instagram.com/tengska?igshid=ZDdkNTZiNTM=">IG @tengska</a> and <a href=" www.linkedin.com/in/tengska">LinkedIn</a>
+- 📫 How to reach me: <a href="https://instagram.com/tengska?igshid=ZDdkNTZiNTM=">IG @tengska</a> and <a href="www.linkedin.com/in/tengska">LinkedIn</a>
 
 
 ---
