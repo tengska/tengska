@@ -1,24 +1,18 @@
-### Hi there, I'm Karla! 👋
+### Hi, I'm Karla! 👋
 
-<!--
-**tengska/tengska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quality Engineer from Finland with a background in customer experience. I like finding what breaks and making sure what ships actually works.
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🧪 **QA experience:** manual, regression, exploratory and API testing, bug reporting, checking specs against functionality
+- 🤖 **Currently learning:** test automation with Playwright & TypeScript
+- 🎓 **Education:** BBA in Business Information Technology, Laurea UAS (2026), incl. 25 cr of testing & QA studies
+- 📜 **Certificates:** Robocorp RPA I–III (Python)
+- 🔍 **Open to:** QA, Application/System Specialist & Junior Data Analyst roles
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/tengska)
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- 🔭 I’m studying at Laurea University of Applied Sciences (BBA of Business Information Technology and Developing Digital Services)
-- 🌱 I love learning new stuff - currently my interest is automating things! 🤖
-- 📫 How to reach me: <a href="https://instagram.com/tengska?igshid=ZDdkNTZiNTM=" target="_blank" rel="nofollow">IG @tengska</a> and <a href="https://www.linkedin.com/in/tengska" target="_blank">LinkedIn</a>
-
+**Tools I've worked with**
+Playwright · Jira · Confluence · PostHog · Zendesk · HubSpot · Supabase · Vercel
 
 ---
->The expert in anything was once a beginner!
+> The expert in anything was once a beginner.
 
-— Tengska
+— Helen Hayes
